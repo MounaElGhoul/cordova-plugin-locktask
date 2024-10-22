@@ -19,6 +19,6 @@
         <param name="android-package" value="com.mediamatrixdoo.keepscreenon" />
       </feature>
     </config-file>
-    <source-file src="src/android/com/MounaElGhoul/plugins/LockTask.java" target-dir="src/com/MounaElGhoul/plugins"/>
+    <source-file src="src/android/com/oddmouse/plugins/LockTask.java" target-dir="src/com/oddmouse/plugins"/>
   </platform>
 </plugin>
