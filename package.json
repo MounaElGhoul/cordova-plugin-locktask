@@ -1,16 +1,16 @@
 {
-  "name": "cordova-plugin-locktask",
+  "name": "com.mediamatrixdoo.keepscreenon",
   "version": "1.0.0",
   "description": "A Cordova plugin that provides access to Android’s screen pinning APIs.",
   "cordova": {
-    "id": "cordova-plugin-locktask",
+    "id": "com.mediamatrixdoo.keepscreenon",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://oddmouse@github.com/oddmouse/cordova-plugin-locktask.git"
+    "url": "git+https://oddmouse@github.com/MounaElGhoul/cordova-plugin-locktask.git"
   },
   "keywords": [
     "cordova-android",
@@ -22,7 +22,11 @@
   "author": "Lindy Roquemore",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/oddmouse/cordova-plugin-locktask/issues"
+    "url": "https://github.com/MounaElGhoul/cordova-plugin-locktask/issues"
   },
-  "homepage": "https://github.com/oddmouse/cordova-plugin-locktask#readme"
+  "homepage": "https://github.com/MounaElGhoul/cordova-plugin-locktask#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }

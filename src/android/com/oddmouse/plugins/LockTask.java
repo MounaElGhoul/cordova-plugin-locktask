@@ -1,4 +1,4 @@
-package com.oddmouse.plugins;
+package com.MounaElGhoul.plugins;
 
 import android.app.Activity;
 import android.app.ActivityManager;
